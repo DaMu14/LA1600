@@ -1,7 +1,5 @@
 # Projekt-Dokumentation: Kochrezept-Website
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 Melon: Müller, Erismann, Bächli, Manser
 
 | Datum | Version | Zusammenfassung                                              |
