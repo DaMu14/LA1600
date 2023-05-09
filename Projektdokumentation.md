@@ -41,7 +41,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 
 ### 1.4 Diagramme
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![image](https://user-images.githubusercontent.com/110892330/237046068-3090ffd0-ddd3-4fe3-ac48-2a940be49b55.png)
 
 
 ## 2 Planen
