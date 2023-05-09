@@ -1,4 +1,4 @@
-# Projekt-Dokumentation
+# Projekt-Dokumentation: Kochrezept-Website
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
@@ -14,25 +14,33 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten für eine Vielzahl von Gerichten aus verschiedenen Küchen der Welt.
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                                                                                     |
+| ---- | --------------- | ---- | ------------------------------------------------------------------------------------------------ |
+| 1    | Muss            | Funktional | Als ein Nutzer möchte ich nach Rezepten suchen können, um gezielt ein bestimmtes Gericht zu finden. |
+| 2    | Muss            | Funktional | Als ein Nutzer möchte ich in der Lage sein, Rezepte zu filtern und zu sortieren, um sie einfacher zu durchsuchen. |
+| 3    | Muss            | Funktional | Als ein Nutzer möchte ich in der Lage sein, ein Rezept anzuzeigen und detaillierte Anweisungen zum Kochen zu erhalten. |
+| 4    | Muss            | Funktional | Als ein Nutzer möchte ich in der Lage sein, meine Lieblingsrezepte zu speichern und später darauf zurückzugreifen. |
+| 5    | Kann            | Funktional | Als ein Nutzer möchte ich Rezepte bewerten und Kommentare hinterlassen können, um anderen Nutzern Feedback zu geben. |
+| 6    | Kann            | Qualität   | Als ein Nutzer möchte ich sicherstellen können, dass die Website auf verschiedenen Geräten und Browsern einwandfrei funktioniert. |
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe                                                                                                          |
+| ---- | ------------ | ------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1.1  | Website-Startseite | Suchbegriff "Lasagne" | Es werden alle Rezepte aufgelistet, die das Keyword "Lasagne" enthalten. |
+| 1.2  | Suchergebnisseite | "Lasagne"-Rezept auswählen | Das Lasagne-Rezept wird angezeigt, einschließlich einer Liste aller erforderlichen Zutaten und einer schrittweisen Anleitung zum Kochen. |
+| 2.1  | Suchergebnisseite | Filtern nach Art des Gerichts | Nur Rezepte der ausgewählten Art werden angezeigt. |
+| 2.2  | Suchergebnisseite | Sortieren nach Bewertung | Die höchstbewerteten Rezepte werden zuerst aufgelistet. |
+| 3.1  | Rezeptseite | Klicken auf den "Zutaten"-Tab | Eine Liste aller erforderlichen Zutaten wird angezeigt. |
+| 3.2  | Rezeptseite | Klicken auf den "Anleitung"-Tab | Eine schrittweise Anleitung zum Kochen des Gerichts wird angezeigt. |
+| 4.1  | Rezeptseite | Klicken auf "Favoriten hinzufügen" | Das Rezept wird zu den Favoriten des Benutzers hinzugefügt. |
+| 4.2  | Website-Startseite | Klicken auf "Favoriten" | Eine Liste aller vom Benutzer gespeicherten Rezepte wird angezeigt. |
+| 5.1  | Rezeptseite | Klicken auf "Bewertung abgeben" | Eine Bewertung und ein Kommentar können eingegeben und gespeichert werden. |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
