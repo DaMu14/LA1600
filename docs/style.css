@@ -60,10 +60,11 @@ right: 20px;
 }
 
 .settings-btn {
-background-color: #fff;
-color: #3E8000;
-border: none;
-border-radius: 20px;
-padding: 10px 20px;
-cursor: pointer;
-}
+    background-color: #fff;
+    color: #3E8000;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  }
