@@ -45,9 +45,21 @@ img.imageMel{
 .settings-btn:hover{
     animation-name: Settings-Button-Hover;
     animation-duration: 1s;
+    animation-fill-mode: forwards;
 }
+
+.settings-btn:not(:hover) {
+    animation-name: Settings-Button-Shrink;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+  }
 
 @keyframes Settings-Button-Hover {
     from {background-color: rgb(255, 255, 255); color: #3E8000; padding: 10px 20px;}
-    to {background-color: rgb(62, 128, 0); color: white; padding: 300px 100px;}
+    to {background-color: rgb(62, 128, 0); color: white; padding: 300px 200px;}
   }
+
+@keyframes Settings-Button-Shrink {
+from {background-color: rgb(62, 128, 0); color: white; padding: 300px 200px;}
+to {background-color: rgb(255, 255, 255); color: #3E8000; padding: 10px 20px;}
+}
