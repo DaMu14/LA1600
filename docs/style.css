@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
 }
+
 body{
     font-family: monospace;
 }
@@ -23,48 +24,30 @@ img.imageMel{
     height: 100px;
 }
 
-.search-container {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    margin-right: auto;
-  }
-  
-.search-container input[type="text"] {
-    width: 200px;
-    padding: 10px;
-    border-radius: 20px;
-    border: none;
-    margin-right: 10px;
-}
-
-.search-container button {
-    background-color: #fff;
-    border: none;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .search-container button i {
     color: #3E8000;
     font-size: 20px;
 }
-.settings-container {
+
+.settings-btn {
     position: absolute;
     bottom: 20px;
     right: 20px;
-}
-
-.settings-btn {
-    background-color: #fff;
+    background-color: white;
     color: #3E8000;
     border: none;
     border-radius: 20px;
     padding: 10px 20px;
-    cursor: pointer;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    
 }
+
+.settings-btn:hover{
+    animation-name: Settings-Button-Hover;
+    animation-duration: 1s;
+}
+
+@keyframes Settings-Button-Hover {
+    from {background-color: rgb(255, 255, 255); color: #3E8000; padding: 10px 20px;}
+    to {background-color: rgb(62, 128, 0); color: white; padding: 300px 100px;}
+  }
