@@ -55,9 +55,13 @@ img.imageMel{
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
+}
 
-#Dark-Mode:checked
+.Dark-Mode:checked ~ main{
+    --background-color: black;
+    --second-color: red;
+}
+
 .settings-btn:hover{
     animation-name: Settings-Button-Hover;
     animation-duration: 1s;
