@@ -8,6 +8,10 @@
     --shadow-color: black;
     --third-color: grey;
 }
+.Dark-Mode{
+    --background-color: black ;
+    --second-color: white;
+}
 body{
     font-family: monospace;
 }
@@ -40,9 +44,8 @@ img.imageMel{
     right: 20px;
     background-color: var(--background-color);
     color: var(--second-color);
-    border: none;
+    border: 1px solid black;
     border-radius: 20px;
-    padding: 10px 20px;
     box-shadow: 0px 0px 5px var(--shadow-color) (0, 0, 0, 0.2);
 }
 
@@ -70,19 +73,19 @@ img.imageMel{
   }
 
 @keyframes Settings-Button-Hover {
-    from {background-color: var(--background-color); color: var(--second-color); padding: 10px 20px;}
-    to {background-color: var(--second-color); color: var(--background-color); padding: 50px 20px;}
-  }
+from {background-color: var(--background-color); color: var(--second-color); padding: 10px 100px;}
+to {background-color: var(--second-color); color: var(--background-color); padding: 50px 100px;}
+}
 
 @keyframes Settings-Button-Shrink {
-from {background-color: var(--second-color); color: var(--background-color); padding: 50px 20px;}
-to {background-color: var(--background-color); color: var(--second-color); padding: 10px 20px;}
+from {background-color: var(--second-color); color: var(--background-color); padding: 50px 100px;}
+to {background-color: var(--background-color); color: var(--second-color); padding: 10px 100px;}
 }
 
 .contents{
     position: absolute;
     background-color: var(--third-color);
-    padding: 200px 100px;
+    padding: 300px 100px;
     top: 100px;
     right: 20px;
     border-radius: 20px;
