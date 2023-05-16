@@ -26,7 +26,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 6    | Kann            | Qualität   | Als ein Nutzer möchte ich sicherstellen können, dass die Website auf verschiedenen Geräten und Browsern einwandfrei funktioniert. |
 | 7    | Muss            | Qualität   | Als Nutzer möchte ich in den Darkmode wechseln können.|
 | 8    | Muss            | Funktional | Als Nutzer möchte ich die Sprache ändern können, um das Rezept auch in einer anderen Sprache nutzen zu können.|
-| 9    | kann            | Qualität   | Als Nutzer möchte ich, dassdie Webseite Visuel schön und simpel gestaltet ist.|
+| 9    | kann            | Qualität   | Als Nutzer möchte ich, dass die Webseite Visuel schön und simpel gestaltet ist.|
 
 ### 1.3 Testfälle
 
