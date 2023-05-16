@@ -70,18 +70,18 @@ img.imageMel{
   }
 
 @keyframes Settings-Button-Hover {
-    from {background-color: var(--background-color) (255, 255, 255); color: var(--second-color); padding: 10px 20px;}
-    to {background-color: var(--second-color) (62, 128, 0); color: var(--background-color); padding: 50px 20px;}
+    from {background-color: var(--background-color); color: var(--second-color); padding: 10px 20px;}
+    to {background-color: var(--second-color); color: var(--background-color); padding: 50px 20px;}
   }
 
 @keyframes Settings-Button-Shrink {
-from {background-color: var(--second-color) (62, 128, 0); color: var(--background-color); padding: 50px 20px;}
-to {background-color: rgb(255, 255, 255); color: #3E8000; padding: 10px 20px;}
+from {background-color: var(--second-color); color: var(--background-color); padding: 50px 20px;}
+to {background-color: var(--background-color); color: var(--second-color); padding: 10px 20px;}
 }
 
 .contents{
     position: absolute;
-    background-color: grey;
+    background-color: var(--third-color);
     padding: 200px 100px;
     top: 100px;
     right: 20px;
