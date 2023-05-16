@@ -24,9 +24,9 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 4    | Muss            | Funktional | Als ein Nutzer möchte ich in der Lage sein, meine Lieblingsrezepte zu speichern und später darauf zurückzugreifen. |
 | 5    | Kann            | Funktional | Als ein Nutzer möchte ich Rezepte bewerten und Kommentare hinterlassen können, um anderen Nutzern Feedback zu geben. |
 | 6    | Kann            | Qualität   | Als ein Nutzer möchte ich sicherstellen können, dass die Website auf verschiedenen Geräten und Browsern einwandfrei funktioniert. |
-| 7    |  Muss             |             | Als Nutzer möchte ich in den Darkmode wechseln können.|
-| 8    | Muss               |             | Als Nutzer möchte ich die Sprache ändern können, um das Rezept auch in einer anderen Sprache nutzen zu können.|
-| 9    |                |             | Als Nutzer möchte ich
+| 7    | Muss            | Qualität   | Als Nutzer möchte ich in den Darkmode wechseln können.|
+| 8    | Muss            | Funktional | Als Nutzer möchte ich die Sprache ändern können, um das Rezept auch in einer anderen Sprache nutzen zu können.|
+| 9    |                 |            | Als Nutzer möchte ich
 
 ### 1.3 Testfälle
 
