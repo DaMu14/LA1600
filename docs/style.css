@@ -43,18 +43,18 @@ img.imageMel{
 }
 
 .Dark-Mode {
-    display: none;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
   }
-
 .settings-btn:hover{
     animation-name: Settings-Button-Hover;
     animation-duration: 1s;
     animation-fill-mode: forwards;
 }
-
-.settings-btn:hover .settings-btn {
-    display: block;
-  }
+  
+.settings-btn:hover .Dark-Mode {
+    opacity: 1;
+}
 
 .settings-btn:not(:hover) {
     animation-name: Settings-Button-Shrink;
@@ -64,10 +64,10 @@ img.imageMel{
 
 @keyframes Settings-Button-Hover {
     from {background-color: rgb(255, 255, 255); color: #3E8000; padding: 10px 20px;}
-    to {background-color: rgb(62, 128, 0); color: white; padding: 300px 200px;}
+    to {background-color: rgb(62, 128, 0); color: white; padding: 50px 20px;}
   }
 
 @keyframes Settings-Button-Shrink {
-from {background-color: rgb(62, 128, 0); color: white; padding: 300px 200px;}
+from {background-color: rgb(62, 128, 0); color: white; padding: 50px 20px;}
 to {background-color: rgb(255, 255, 255); color: #3E8000; padding: 10px 20px;}
 }
