@@ -28,7 +28,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 8    | Muss            | Funktional | Als Nutzer möchte ich die Sprache ändern können, um das Rezept auch in einer anderen Sprache nutzen zu können.|
 | 9    | kann            | Qualität   | Als Nutzer möchte ich, dass die Webseite Visuel schön und simpel gestaltet ist.|
 | 10   | muss             |             | Als Nutzer möchte ich die Mengenangaben in richtigen Masseinheiten angezeigt haben, damit ich das Rezept richtig machen kann. |
-| 11   | kann            |             | Als ein Benutzer möchte ich die benötigte Zubereitungszeit für ein Rezept sehen, um abschätzen zu können, wie viel Zeit ich für die Zubereitung einplanen muss. |
+| 11   | kann            |             | Als ein Benutzer möchte ich die benötigte zeit für ein Rezept sehen, um abschätzen zu können, wie viel Zeit ich einplanen muss. |
 | 12   | 
  
 
@@ -49,7 +49,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 7.1  | Website starten| auf Darkmode klicken | Die Website wird in den Darkmode gestellt. |
 | 8.1  | Website starten | klicken auf französisch klicken | die Website wird auf französisch angezeigt. |
 | 10.1  | Website starten  | Rezept auswählen | Mengenangaben für das Rezept werden angezeigt. |
-| 11.1 |
+| 11.1 | Website starten | Rezept auswählen  | Die benötigte Zeit wird angezeigt
 
 
 ### 1.4 Diagramme
