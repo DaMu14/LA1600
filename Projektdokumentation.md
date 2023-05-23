@@ -48,7 +48,8 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 6.1  | Anderes Gerät  | 
 | 7.1  | Website starten| auf Darkmode klicken | Die Website wird in den Darkmode gestellt. |
 | 8.1  | Website starten | klicken auf französisch klicken | die Website wird auf französisch angezeigt. |
-| 10.1  | Website starten  | Rezept auswöhlen 
+| 10.1  | Website starten  | Rezept auswählen | Mengenangaben für das Rezept werden angezeigt. |
+| 11.1 |
 
 
 ### 1.4 Diagramme
