@@ -27,6 +27,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 7    | Muss            | Qualität   | Als Nutzer möchte ich in den Darkmode wechseln können.|
 | 8    | Muss            | Funktional | Als Nutzer möchte ich die Sprache ändern können, um das Rezept auch in einer anderen Sprache nutzen zu können.|
 | 9    | kann            | Qualität   | Als Nutzer möchte ich, dass die Webseite Visuel schön und simpel gestaltet ist.|
+| 10  | 
 
 ### 1.3 Testfälle
 
@@ -42,7 +43,10 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 4.2  | Website-Startseite | Klicken auf "Favoriten" | Eine Liste aller vom Benutzer gespeicherten Rezepte wird angezeigt. |
 | 5.1  | Rezeptseite | Klicken auf "Bewertung abgeben" | Eine Bewertung und ein Kommentar können eingegeben und gespeichert werden. |
 | 6.1  | Anderes Gerät  | 
-| 7.1  | 
+| 7.1  | Website starten| auf Darkmode klicken | Die Website wird in den Darkmode gestellt. |
+| 8.1  | Website starten | klicken auf französisch klicken | die Website wird auf französisch angezeigt. |
+|   | 
+
 
 ### 1.4 Diagramme
 ![image](https://user-images.githubusercontent.com/110892330/237046068-3090ffd0-ddd3-4fe3-ac48-2a940be49b55.png)
@@ -52,8 +56,10 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 
+| 1.A  | 16.5.23|Erisman|Erstellen der ersten Funktionalität| 45|
+| 2.A  | 16.5.23|Erisman|Erstellen des Grundrisses der Website mithilfe von HTML und CSS|2x 45|
+
 
 Total: 
 

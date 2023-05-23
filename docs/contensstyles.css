@@ -5,7 +5,7 @@ body{
     background-color: gray;
     border-radius: 10px;
     padding: 20px;
-    width: 500px;
+    width: auto;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -15,7 +15,7 @@ body{
     background-color: white;
     border-radius: 10px;
     padding: auto;
-    width: 30%;
+    width: 100%;
     order: 1;
     text-align: center;
 }
@@ -26,19 +26,21 @@ body{
     padding: auto;
     width: 70%;
     height: auto;
-    order: 2;
-    text-align: center;
+    order: 3;
+    text-align: left;
+    
 }
 .manualTitle-box{
     background-color: white;
     border-radius: 10px;
     padding: auto;
+    text-align: center;
 }
 .ingrediance-box {
     background-color: lightgray;
     border-radius: 10px;
     padding: auto;
     width: 30%;
-    order: 3;
+    order: 2;
     text-align: center;
 }
