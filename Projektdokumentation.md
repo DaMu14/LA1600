@@ -41,7 +41,8 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 4.1  | Rezeptseite | Klicken auf "Favoriten hinzufügen" | Das Rezept wird zu den Favoriten des Benutzers hinzugefügt. |
 | 4.2  | Website-Startseite | Klicken auf "Favoriten" | Eine Liste aller vom Benutzer gespeicherten Rezepte wird angezeigt. |
 | 5.1  | Rezeptseite | Klicken auf "Bewertung abgeben" | Eine Bewertung und ein Kommentar können eingegeben und gespeichert werden. |
-|
+| 6.1  | Anderes Gerät  | 
+| 7.1  | 
 
 ### 1.4 Diagramme
 ![image](https://user-images.githubusercontent.com/110892330/237046068-3090ffd0-ddd3-4fe3-ac48-2a940be49b55.png)
