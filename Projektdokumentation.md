@@ -27,7 +27,10 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 7    | Muss            | Qualität   | Als Nutzer möchte ich in den Darkmode wechseln können.|
 | 8    | Muss            | Funktional | Als Nutzer möchte ich die Sprache ändern können, um das Rezept auch in einer anderen Sprache nutzen zu können.|
 | 9    | kann            | Qualität   | Als Nutzer möchte ich, dass die Webseite Visuel schön und simpel gestaltet ist.|
-| 10  | 
+| 10   | muss             |             | Als Nutzer möchte ich die Mengenangaben in richtigen Masseinheiten angezeigt haben, damit ich das Rezept richtig machen kann. |
+| 11   | kann            |             | Als ein Benutzer möchte ich die benötigte Zubereitungszeit für ein Rezept sehen, um abschätzen zu können, wie viel Zeit ich für die Zubereitung einplanen muss. |
+| 12   | 
+ 
 
 ### 1.3 Testfälle
 
@@ -45,7 +48,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 6.1  | Anderes Gerät  | 
 | 7.1  | Website starten| auf Darkmode klicken | Die Website wird in den Darkmode gestellt. |
 | 8.1  | Website starten | klicken auf französisch klicken | die Website wird auf französisch angezeigt. |
-|   | 
+| 10.1  | Website starten  | Rezept auswöhlen 
 
 
 ### 1.4 Diagramme
@@ -56,9 +59,11 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 
-| 1.A  | 16.5.23|Erisman|Erstellen der ersten Funktionalität| 45|
+| 1.A  | 9.5.23| Bächli Manser| Erstellen der Userstories| 45|
+| 1.B  | 9.5.23| Bächli, Müller| Erstellen der Testfälle | 45|
 | 2.A  | 16.5.23|Erisman|Erstellen des Grundrisses der Website mithilfe von HTML und CSS|2x 45|
+| 3.A  | 23.5.23|Erisman|Erstellen eines Dark Mode Switch| 45|
+| 3.B  | 23.5.23|Erisman|Erstellen einer Suchleiste und eines Filtersystems| 4x45
 
 
 Total: 
