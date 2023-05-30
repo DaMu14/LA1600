@@ -4,9 +4,10 @@ Melon: Müller, Erismann, Bächli, Manser
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 2.5.2023| 0.0.1   | Grundriss der Webseite erstellt |
+| 9.5.2023| 0.0.2   | Settings Menü erstellt, Webseite besser gestaltet |
+| 16.5.2024| 0.0.3  | Webseite mit mehreren Rezepten gefüllt, neu gestaltet |
+|       | 1.0.0   ||
 
 ## 1 Informieren
 
