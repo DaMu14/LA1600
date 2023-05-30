@@ -5,18 +5,17 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <div class="settings-btn">
-      <label for="dark-mode-toggle">Dark Mode</label>
-      <input type="checkbox" id="dark-mode-toggle" class="dark-mode-toggle" checked>
-    </div>
     <main>
       <nav>
         <img class="imageMel" src="./images/melone.png">
         <label class="logo">Melon's Recipes</label>
+        <div class="dark-mode-toggle">
+          <input type="checkbox" id="dark-mode-checkbox" class="dark-mode-checkbox Dark-Mode" checked>
+          <label for="dark-mode-checkbox" class="toggle"></label>
+          <span class="toggle-text">Dark Mode</span>
+        </div>
       </nav>
     </main>
     <iframe class="iframe" src="contents.html" style="width: 100%; height: 90vh; border: none;"></iframe>
-
-    <script src="script.js"></script>
   </body>
 </html>
