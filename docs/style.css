@@ -76,7 +76,7 @@ img.imageMel{
     animation-name: Settings-Button-Shrink;
     animation-duration: 1s;
     animation-fill-mode: forwards;
-  }
+}
 
 @keyframes Settings-Button-Hover {
     from {background-color: var(--background-color); color: var(--second-color); padding: 10px 100px;}
