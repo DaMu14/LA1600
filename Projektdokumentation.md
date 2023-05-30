@@ -54,7 +54,8 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 
 ### 1.4 Diagramme
-![image](https://user-images.githubusercontent.com/110892330/237046068-3090ffd0-ddd3-4fe3-ac48-2a940be49b55.png)
+![LA_1600_USECASE](https://github.com/DaMu14/LA1600/assets/110892537/9c0eb5ac-47ef-4c79-b124-69627c4f5af9)
+
 
 
 ## 2 Planen 
@@ -82,8 +83,11 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |9.5.23| Bächli, Manser | 45              |    45               |
+| 1.B     |9.5.23| Bächli, Müller |  45         |       45        |            
+| 2.A     |9.5.23| Erisman |       2x45    |     45          |              
+| 2.A     |16.5.23| Erisman |     2x45      |     45          |           
+| 3.A     |23.5.23| Erisman |    45       |    300           |                
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
