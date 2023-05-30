@@ -1,21 +1,22 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Melon's Recepies</title>
+    <title>Melon's Recipes</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <div class="settings-btn">
-        Settings
-        <input type="checkbox" class="Dark-Mode" checked>
-      </div>
+      <label for="dark-mode-toggle">Dark Mode</label>
+      <input type="checkbox" id="dark-mode-toggle" class="dark-mode-toggle" checked>
+    </div>
     <main>
       <nav>
         <img class="imageMel" src="./images/melone.png">
         <label class="logo">Melon's Recipes</label>
       </nav>
     </main>
-    <!-- <div class="contents"></div> -->
+    <iframe class="iframe" src="contents.html" style="width: 100%; height: 90vh; border: none;"></iframe>
+
+    <script src="script.js"></script>
   </body>
-  <iframe class="iframe" src="contents.html" style="width: 100%; height: 90vh; border: none;"></iframe>
 </html>

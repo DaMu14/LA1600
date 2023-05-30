@@ -1,44 +1,53 @@
-*{
+* {
     padding: 0;
     margin: 0;
-}
-:root{
+  }
+  
+  :root {
     --background-color: white;
     --second-color: #3E8000;
     --shadow-color: black;
     --third-color: grey;
-}
-.Dark-Mode{
-    --background-color: black ;
+  }
+  
+  .Dark-Mode {
+    --background-color: black;
     --second-color: white;
-}
-body{
+  }
+  
+  body {
     font-family: monospace;
-}
-nav{
+    background-color: var(--background-color);
+    color: var(--second-color);
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  nav {
     background: var(--second-color);
     height: 80px;
     width: 100%;
-    display: flex; 
-    align-items: center; 
-}
-label.logo{
+    display: flex;
+    align-items: center;
+  }
+  
+  label.logo {
     color: var(--background-color);
     font-size: 35px;
     line-height: 80px;
     margin: 20px;
-}
-img.imageMel{
+  }
+  
+  img.imageMel {
     width: 100px;
     height: 100px;
-}
-
-.search-container button i {
+  }
+  
+  .search-container button i {
     color: var(--second-color);
     font-size: 20px;
-}
-
-.settings-btn {
+  }
+  
+  .settings-btn {
     position: absolute;
     bottom: 20px;
     right: 20px;
@@ -47,55 +56,72 @@ img.imageMel{
     border: 1px solid black;
     border-radius: 20px;
     box-shadow: 0px 0px 5px var(--shadow-color) (0, 0, 0, 0.2);
-}
-
-.Dark-Mode {
+  }
+  
+  .Dark-Mode {
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-
-.Dark-Mode:checked ~ main{
+  }
+  
+  .Dark-Mode:checked ~ main {
     --background-color: black;
     --second-color: red;
     filter: invert(1) hue-rotate(100deg);
-}
-
-.settings-btn:hover{
+  }
+  
+  .settings-btn:hover {
     animation-name: Settings-Button-Hover;
     animation-duration: 1s;
     animation-fill-mode: forwards;
-}
+  }
   
-.settings-btn:hover .Dark-Mode {
+  .settings-btn:hover .Dark-Mode {
     opacity: 1;
-}
-
-.settings-btn:not(:hover) {
+  }
+  
+  .settings-btn:not(:hover) {
     animation-name: Settings-Button-Shrink;
     animation-duration: 1s;
     animation-fill-mode: forwards;
-}
-
-@keyframes Settings-Button-Hover {
-    from {background-color: var(--background-color); color: var(--second-color); padding: 10px 100px;}
-    to {background-color: var(--second-color); color: var(--background-color); padding: 50px 100px;}
-}
-
-@keyframes Settings-Button-Shrink {
-    from {background-color: var(--second-color); color: var(--background-color); padding: 50px 100px;}
-    to {background-color: var(--background-color); color: var(--second-color); padding: 10px 100px;}
-}
-
-.contents{
+  }
+  
+  @keyframes Settings-Button-Hover {
+    from {
+      background-color: var(--background-color);
+      color: var(--second-color);
+      padding: 10px 100px;
+    }
+    to {
+      background-color: var(--second-color);
+      color: var(--background-color);
+      padding: 50px 100px;
+    }
+  }
+  
+  @keyframes Settings-Button-Shrink {
+    from {
+      background-color: var(--second-color);
+      color: var(--background-color);
+      padding: 50px 100px;
+    }
+    to {
+      background-color: var(--background-color);
+      color: var(--second-color);
+      padding: 10px 100px;
+    }
+  }
+  
+  .contents {
     position: absolute;
     background-color: var(--third-color);
     padding: 300px 100px;
     top: 100px;
     right: 20px;
     border-radius: 20px;
-}
-
-
+  }
+  
+  /* Add your additional CSS styles below */
+  
