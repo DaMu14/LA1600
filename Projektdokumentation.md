@@ -83,8 +83,11 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |9.5.23| Bächli, Manser | 45              |    45               |
+| 1.B     |9.5.23| Bächli, Müller |  45         |       45        |            
+| 2.A     |9.5.23| Erisman |       2x45    |     45          |              
+| 2.A     |16.5.23| Erisman |     2x45      |     45          |           
+| 3.A     |23.5.23| Erisman |    45       |    300           |                
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
