@@ -60,6 +60,7 @@ img.imageMel{
 .Dark-Mode:checked ~ main{
     --background-color: black;
     --second-color: red;
+    filter: invert(1) hue-rotate(100deg);
 }
 
 .settings-btn:hover{
@@ -96,3 +97,5 @@ img.imageMel{
     right: 20px;
     border-radius: 20px;
 }
+
+
