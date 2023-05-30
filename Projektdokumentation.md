@@ -57,6 +57,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 ### 1.4 Diagramme
 ![LA_1600_USECASE](https://github.com/DaMu14/LA1600/assets/110892537/9c0eb5ac-47ef-4c79-b124-69627c4f5af9)
+![LA_1600_SKIZZE](https://github.com/DaMu14/LA1600/assets/110892330/3421a289-03a4-4243-b561-c1aabb3161dc)
 
 
 
