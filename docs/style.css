@@ -8,6 +8,11 @@
     --shadow-color: black;
     --third-color: grey;
 }
+
+html{
+    background-color: var(--background-color);
+}
+
 .Dark-Mode{
     --background-color: black ;
     --second-color: white;
@@ -60,7 +65,6 @@ img.imageMel{
 .Dark-Mode:checked ~ main{
     --background-color: black;
     --second-color: red;
-    
 }
 
 
@@ -74,13 +78,14 @@ img.imageMel{
 }
 
 /* Darkmode toggle */
-.dark-mode-toggle {
-    display: inline-block;
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
   
-  .dark-mode-toggle a {
-    display: inline-block;
-    text-decoration: none;
+  .dark-mode-toggle {
+    margin-left: auto;
   }
   
   .dark-mode-button {
@@ -97,4 +102,5 @@ img.imageMel{
   .dark-mode-button:hover {
     background-color: #333;
   }
+  
   

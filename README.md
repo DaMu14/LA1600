@@ -1,3 +1,3 @@
 # LA1600
-HALLO
+HALLO tschüss
 dies ist die website eines Melones

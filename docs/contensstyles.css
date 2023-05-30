@@ -1,6 +1,7 @@
 body{
     font-family: monospace;
 }
+
 .rounded-box {
     background-color: gray;
     border-radius: 10px;
@@ -43,3 +44,22 @@ body{
     order: 2;
     text-align: center;
 }
+
+/* Fade in */
+.fade-in {
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+  
+@keyframes fadeIn {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+
+
