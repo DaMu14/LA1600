@@ -29,7 +29,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 9    | kann            | Qualität   | Als Nutzer möchte ich, dass die Webseite Visuel schön und simpel gestaltet ist.|
 | 10   | muss             |             | Als Nutzer möchte ich die Mengenangaben in richtigen Masseinheiten angezeigt haben, damit ich das Rezept richtig machen kann. |
 | 11   | kann            |             | Als ein Benutzer möchte ich die benötigte zeit für ein Rezept sehen, um abschätzen zu können, wie viel Zeit ich einplanen muss. |
-| 12   | 
+| 12   |                 |             | |
  
 
 ### 1.3 Testfälle
