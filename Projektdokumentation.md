@@ -31,7 +31,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 10   | muss            | Funktional | Als Nutzer möchte ich die Mengenangaben in richtigen Masseinheiten angezeigt haben, damit ich das Rezept richtig machen kann. |
 | 11   | kann            | Qualität   | Als ein Benutzer möchte ich die benötigte zeit für ein Rezept sehen, um abschätzen zu können, wie viel Zeit ich einplanen muss. |
 | 12   | muss            | Qualität   | Zutaten sollen nacheinander eingeblendet werden |
-| 13   | muss            | Funktional | Als Nutzer möchte ich Suchfilter verwenden können |
+| 13   | muss            | Funktional | Als Nutzer möchte ich Suchfilter verwenden können, damit ich meine Rezepte schneller finden kann. |
 
  
 
