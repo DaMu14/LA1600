@@ -66,7 +66,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 |1.A   |        | Erisman   | Rezepte finden können | 2x 45 |
-|
+|1.B  |        | 
 |   | 23.5.23|Erisman, Müler|Erstellen eines Dark Mode Switch| 45|
 |   | 23.5.23|Erisman|Erstellen einer Suchleiste | 4x45|
 |      |      | Manser | Erstellen eines Filtersystems| 
