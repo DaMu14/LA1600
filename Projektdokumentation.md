@@ -65,14 +65,12 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|  | 9.5.23| Bächli Manser| Erstellen der Userstories| 45|
-|   | 9.5.23| Bächli, Müller| Erstellen der Testfälle | 45|
-|   | 16.5.23|Erisman|Erstellen des Grundrisses der Website mithilfe von HTML und CSS|2x 45|
+|1.A   |        | Erisman   | Rezepte finden können | 2x 45 |
+|
 |   | 23.5.23|Erisman, Müler|Erstellen eines Dark Mode Switch| 45|
 |   | 23.5.23|Erisman|Erstellen einer Suchleiste | 4x45|
 |      |      | Manser | Erstellen eines Filtersystems| 
-|   1.A|       |        | Rezepte finden   |                |
-|
+ 
 
 
 Total: 
