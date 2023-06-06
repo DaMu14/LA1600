@@ -2,6 +2,7 @@ body{
     font-family: monospace;
 }
 
+
 .rounded-box {
     background-color: gray;
     border-radius: 10px;
@@ -31,12 +32,14 @@ body{
     order: 3;
     text-align: left;
     margin-left: 1%; /* Add margin-bottom for spacing */
+    
 }
 .manualTitle-box{
     background-color: white;
     border-radius: 10px;
     padding: auto;
     text-align: center;
+    margin: 10px;
 }
 .ingrediance-box {
     background-color: lightgray;
