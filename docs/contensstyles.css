@@ -1,5 +1,5 @@
 body{
-    font-family: monospace;
+    font-family: Arial, sans-serif;
 }
 
 
@@ -21,7 +21,6 @@ body{
     order: 1;
     text-align: center;
     margin-bottom: 1%; /* Add margin-bottom for spacing */
-    margin: 10px;
 }
 
 .manual-box {
