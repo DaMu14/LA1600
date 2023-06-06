@@ -6,8 +6,10 @@ Melon: Müller, Erismann, Bächli, Manser
 | ----- | ------- | ------------------------------------------------------------ |
 | 2.5.2023| 0.0.1   | Grundriss der Webseite erstellt |
 | 9.5.2023| 0.0.2   | Settings Menü erstellt, Webseite besser gestaltet |
-| 16.5.2024| 0.0.3  | Webseite mit mehreren Rezepten gefüllt, neu gestaltet |
-|       | 1.0.0   ||
+| 16.5.2023| 0.0.3  | Webseite mit mehreren Rezepten gefüllt, neu gestaltet |
+| 23.5.2023| 0.0.0  | Darkmode Setting angefangen zu implementieren  |
+| 30.5.2023| 0.0.0  | Filtersystem Angefangen, Darkmode Fertig gemacht  |
+| 6.6.2023| 0.0.0  | Filtersystem Fertig gemacht  |
 
 ## 1 Informieren
 
