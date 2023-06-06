@@ -69,9 +69,11 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | ---- | ----- | --------- | ------------ | ------------- |
 |  |  |  |  |  |
 |  |  |  |  |  |
-|  | 23.5.23 | Erisman, Müller | Erstellen eines Dark Mode Switch | 45 |
-|  | 23.5.23 | Erisman | Erstellen einer Suchleiste | 4x45 |
-|  |  | Manser | Erstellen eines Filtersystems |  |
+| 1 | 23.5.23 | Erisman, Müller | Erstellen eines Dark Mode Switch | 45 |
+| 2 | 23.5.23 | Erisman | Erstellen einer Suchleiste | 4x45 |
+| 3 | 30.5.23 | Erisman, Bächli | Darkmode Funktion implementieren | 4x45 |
+| 3 | 6.6.23 | Manser | Erstellen eines Filtersystems | 3x45 |
+| 4 | 6.6.23 | Erisman, Manser | Frtigstellung des Darkmodes und des Filters | 3x45 |
  
 
 
