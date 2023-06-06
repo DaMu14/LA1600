@@ -67,11 +67,11 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|   |        | | | |
-|   |        | | | |
-|   | 23.5.23 | Erisman, Müller | Erstellen eines Dark Mode Switch | 45 |
-|   | 23.5.23 | Erisman | Erstellen einer Suchleiste | 4x45 |
-|   |         | Manser | Erstellen eines Filtersystems | 
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 23.5.23 | Erisman, Müller | Erstellen eines Dark Mode Switch | 45 |
+|  | 23.5.23 | Erisman | Erstellen einer Suchleiste | 4x45 |
+|  |  | Manser | Erstellen eines Filtersystems |  |
  
 
 
