@@ -6,8 +6,10 @@ Melon: Müller, Erismann, Bächli, Manser
 | ----- | ------- | ------------------------------------------------------------ |
 | 2.5.2023| 0.0.1   | Grundriss der Webseite erstellt |
 | 9.5.2023| 0.0.2   | Settings Menü erstellt, Webseite besser gestaltet |
-| 16.5.2024| 0.0.3  | Webseite mit mehreren Rezepten gefüllt, neu gestaltet |
-|       | 1.0.0   ||
+| 16.5.2023| 0.0.3  | Webseite mit mehreren Rezepten gefüllt, neu gestaltet |
+| 23.5.2023| 0.0.4  | Darkmode Setting angefangen zu implementieren  |
+| 30.5.2023| 0.0.5  | Filtersystem Angefangen, Darkmode Fertig gemacht  |
+| 6.6.2023| 0.0.6  | Filtersystem Fertig gemacht  |
 
 ## 1 Informieren
 
@@ -65,11 +67,11 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1.A   |        | Erisman   | Rezepte finden können | 2x 45 |
-|1.B  |        | 
-|   | 23.5.23|Erisman, Müler|Erstellen eines Dark Mode Switch| 45|
-|   | 23.5.23|Erisman|Erstellen einer Suchleiste | 4x45|
-|      |      | Manser | Erstellen eines Filtersystems| 
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 23.5.23 | Erisman, Müller | Erstellen eines Dark Mode Switch | 45 |
+|  | 23.5.23 | Erisman | Erstellen einer Suchleiste | 4x45 |
+|  |  | Manser | Erstellen eines Filtersystems |  |
  
 
 
