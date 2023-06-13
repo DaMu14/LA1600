@@ -14,4 +14,4 @@ Egal, ob du nach einem schnellen Abendessen für die Familie suchst oder etwas B
 
 Worauf wartest du noch? Klicke [hier](http://127.0.0.1:5500/docs/index.html), um dich von unseren köstlichen Rezepten inspirieren zu lassen!
 
-![Köstliche Rezepte]([https://example.com/images/recipe.jpg](https://cdn-icons-png.flaticon.com/512/3565/3565418.png))
+![Köstliche Rezepte](https://example.com/images/recipe.jpg](https://cdn-icons-png.flaticon.com/512/3565/3565418.png)
