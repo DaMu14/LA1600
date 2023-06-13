@@ -27,13 +27,15 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 4    | Muss            | Funktional | Als ein Nutzer möchte ich in der Lage sein, meine Lieblingsrezepte zu speichern und später darauf zurückzugreifen. |
 | 5    | Kann            | Funktional | Als ein Nutzer möchte ich Rezepte bewerten und Kommentare hinterlassen können, um anderen Nutzern Feedback zu geben. |
 | 6    | Kann            | Qualität   | Als ein Nutzer möchte ich sicherstellen können, dass die Website auf verschiedenen Geräten und Browsern einwandfrei funktioniert. |
-| 7    | Muss            | Qualität   | Als Nutzer möchte ich in den Darkmode wechseln können.|
+| 7    | Muss            | Qualität   | Als Nutzer möchte ich in den Darkmode wechseln können, damit ich die Website anders sehen kann.|
 | 8    | Muss            | Funktional | Als Nutzer möchte ich die Sprache ändern können, um das Rezept auch in einer anderen Sprache nutzen zu können.|
 | 9    | kann            | Qualität   | Als Nutzer möchte ich, dass die Webseite Visuel schön und simpel gestaltet ist.|
 | 10   | muss            | Funktional | Als Nutzer möchte ich die Mengenangaben in richtigen Masseinheiten angezeigt haben, damit ich das Rezept richtig machen kann. |
 | 11   | kann            | Qualität   | Als ein Benutzer möchte ich die benötigte zeit für ein Rezept sehen, um abschätzen zu können, wie viel Zeit ich einplanen muss. |
 | 12   | muss            | Qualität   | Zutaten sollen nacheinander eingeblendet werden |
 | 13   | muss            | Funktional | Als Nutzer möchte ich Suchfilter verwenden können, damit ich meine Rezepte schneller finden kann. |
+| 14 |  muss             |   | Als Benutzer möchte ich die Rezepte in einem Drop Down Menu angezeigt haben, damit ich mehrere Rezeptnamen auf einmal sehen kann.|
+ 
 
  
 
@@ -55,6 +57,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 8.1  | Website starten | klicken auf französisch klicken | die Website wird auf französisch angezeigt. |
 | 10.1  | Website starten  | Rezept auswählen | Mengenangaben für das Rezept werden angezeigt. |
 | 11.1 | Website starten | Rezept auswählen  | Die benötigte Zeit wird angezeigt. |
+| 12.1| Website gestartet| Filter auswählen| Rezepte werden in einem Drop Down angezeigt|
 
 
 ### 1.4 Diagramme
@@ -67,13 +70,12 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|  |  |  |  |  |
-|  |  |  |  |  |
 | 1 | 23.5.23 | Erisman, Müller | Erstellen eines Dark Mode Switch | 45 |
 | 2 | 23.5.23 | Erisman | Erstellen einer Suchleiste | 4x45 |
 | 3 | 30.5.23 | Erisman, Bächli | Darkmode Funktion implementieren | 4x45 |
-| 3 | 6.6.23 | Manser | Erstellen eines Filtersystems | 3x45 |
+| 3 | 6.6.23 | Manser, Müller | Erstellen eines Filtersystems | 3x45 |
 | 4 | 6.6.23 | Erisman, Manser | Frtigstellung des Darkmodes und des Filters | 3x45 |
+|14.N| 13.6.23| Manser|Drop Down Menu| 
  
 
 
@@ -111,4 +113,4 @@ Total:
 ## 6 Auswerten
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
-schnäbi
+ 
