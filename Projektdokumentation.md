@@ -68,15 +68,22 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 ## 2 Planen 
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 7. | 23.5.23 | Erisman, Müller | Erstellen eines Dark Mode Switch | 45 |
-| 2 | 23.5.23 | Erisman | Erstellen einer Suchleiste | 4x45 |
-| 3 | 30.5.23 | Erisman, Bächli | Darkmode Funktion implementieren | 4x45 |
-| 3 | 6.6.23 | Manser, Müller | Erstellen eines Filtersystems | 3x45 |
-| 4 | 6.6.23 | Erisman, Manser | Frtigstellung des Darkmodes und des Filters | 3x45 |
-|14.N| 13.6.23| Manser|Drop Down Menu| |
-|
+| AP-№ |   Frist   |    Zuständig    |                   Beschreibung                   | geplante Zeit |
+|:----:|:---------:|:---------------:|:-----------------------------------------------:|:-------------:|
+| 1.A  | 23.5.23   | Müller          | Implementierung der Rezept-Suchfunktion          | 45            |
+| 1.B  | 23.5.23   | Erisman         | Implementierung der Filter- und Sortierfunktionen | 2x45          |
+| 1.C  | 23.5.23   | Bächli          | Implementierung der Rezeptdetailansicht          | 45            |
+| 4.A  | 30.5.23   | Müller          | Implementierung der Favoritenfunktion            | 45            |
+| 5.A  | 6.6.23    | Manser, Müller  | Implementierung der Bewertungs- und Kommentarfunktion | 2x45       |
+| 6.A  | 6.6.23    | Erisman, Bächli | Überprüfung der Website-Kompatibilität auf verschiedenen Geräten und Browsern | 2x45 |
+| 7.A  | 13.6.23   | Manser          | Implementierung der Darkmode-Funktion             | 45            |
+| 8.A  | 13.6.23   | Erisman, Bächli | Implementierung der Sprachauswahl-Funktion        | 2x45          |
+| 9.A  | 20.6.23   | Müller          | Gestaltung der Website-Benutzeroberfläche         | 3x45          |
+| 10.A | 20.6.23   | Bächli          | Anpassung der Mengenangaben in den Rezepten        | 45            |
+| 11.A | 27.6.23   | Manser          | Anzeige der benötigten Zeit für ein Rezept         | 45            |
+| 12.A | 27.6.23   | Erisman         | Einblenden der Zutaten nacheinander                | 45            |
+| 13.A | 4.7.23    | Bächli, Müller  | Implementierung der Suchfilterfunktion             | 2x45          |
+| 14.A | 4.7.23    | Erisman, Manser | Implementierung des Drop-Down-Menüs               | 2x45          |
  
 
 
