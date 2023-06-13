@@ -14,5 +14,8 @@ Egal, ob du ein schnelles Alltagsrezept, ein beeindruckendes Gericht für Gäste
 Worauf wartest du? [Klicke hier](https://damu14.github.io/LA1600/), um dich von unseren köstlichen Rezepten inspirieren zu lassen!
 
 <p align="center">
-  <img src="https://damu14.github.io/LA1600/images/melone.png" alt="Köstliche Rezepte" width="400px">
+  <a href="https://damu14.github.io/LA1600/">
+    <img src="https://damu14.github.io/LA1600/images/melone.png" alt="Köstliche Rezepte" width="400px">
+  </a>
 </p>
+
