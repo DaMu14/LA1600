@@ -43,8 +43,8 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe                                                                                                          |
 | ---- | ------------ | ------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1.1  | Website-Startseite | Suchbegriff "Lasagne" | Es werden alle Rezepte aufgelistet, die das Keyword "Lasagne" enthalten. |
-| 1.2  | Suchergebnisseite | "Lasagne"-Rezept auswählen | Das Lasagne-Rezept wird angezeigt, einschließlich einer Liste aller erforderlichen Zutaten und einer schrittweisen Anleitung zum Kochen. |
+| 1.1  | Website-Startseite | Suchbegriff "Kuchen" | Es werden alle Rezepte aufgelistet, die das Keyword "Kuchen" enthalten. |
+| 1.2  | Suchergebnisseite | "Kuchen"-Rezept auswählen | Das Kuchen-Rezept wird angezeigt, einschließlich einer Liste aller erforderlichen Zutaten und einer schrittweisen Anleitung zum Kochen. |
 | 2.1  | Suchergebnisseite | Filtern nach Art des Gerichts | Nur Rezepte der ausgewählten Art werden angezeigt. |
 | 2.2  | Suchergebnisseite | Sortieren nach Bewertung | Die höchstbewerteten Rezepte werden zuerst aufgelistet. |
 | 3.1  | Rezeptseite | Klicken auf den "Zutaten"-Tab | Eine Liste aller erforderlichen Zutaten wird angezeigt. |
@@ -107,8 +107,11 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 13.6.23|  keine Suchleiste| Müller|
+|1.2|  13.6.23| Rezept wird angezeigt| Müller|
+| 2.1 | 13.6.23| Filtersystem ist vorhanden funktioniert nicht| Müller|
+| 2.2 | 13.6.23| nicht möglich| Müller|
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
