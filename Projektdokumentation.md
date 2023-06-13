@@ -34,7 +34,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 11   | kann            | Qualität   | Als ein Benutzer möchte ich die benötigte zeit für ein Rezept sehen, um abschätzen zu können, wie viel Zeit ich einplanen muss. |
 | 12   | muss            | Qualität   | Zutaten sollen nacheinander eingeblendet werden |
 | 13   | muss            | Funktional | Als Nutzer möchte ich Suchfilter verwenden können, damit ich meine Rezepte schneller finden kann. |
-| 14 |  muss             |   | Als Benutzer möchte ich die Rezepte in einem Drop Down Menu angezeigt haben, damit ich mehrere Rezeptnamen auf einmal sehen kann.|
+| 14 |  muss             | Funktional  | Als Benutzer möchte ich die Rezepte in einem Drop Down Menu angezeigt haben, damit ich mehrere Rezeptnamen auf einmal sehen kann.|
  
 
  
@@ -111,6 +111,17 @@ Total:
 |1.2|  13.6.23| Rezept wird angezeigt| Müller|
 | 2.1 | 13.6.23| Filtersystem ist vorhanden funktioniert nicht| Müller|
 | 2.2 | 13.6.23| nicht möglich| Müller|
+|3.1 |13.6.23| Liste wird angezeigt| Müller|
+| 3.2 | 13.6.23| Anleitung wird angezeigt| Müller|
+| 4.1|13.6.23| nicht möglich| Müller|
+| 4.2|13.6.23| nicht vorhanden| Müller|
+| 5.1| 13.6.23| nicht möglich| Müller|
+|6.1 | 13.6.23| ist auf mobile Grät möglich| Müller|
+|7.1| 13.6.23| ist in Dark Mode sichtbar| Müller|
+| 8.1 | 13.6.23 |nicht möglich| Müller|
+| 10.1 | 13.6.23 | wird angezeigt | Müller|
+| 11.1 | 13.6.23 | Zeit wird angezeigt| Müller|
+| 12.1 | 13.6.23 |
 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
