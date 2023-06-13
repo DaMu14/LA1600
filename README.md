@@ -8,7 +8,6 @@ Besuche unsere Webseite [Melon's Recipes](https://damu14.github.io/LA1600/) und 
 - 📝 Schritt-für-Schritt-Anleitungen, die das Kochen zum Kinderspiel machen.
 - 📷 Verlockende Bilder, die dir das Wasser im Mund zusammenlaufen lassen.
 - 🔍 Einfache Filterfunktionen, um genau das zu finden, wonach du suchst.
-- 🆕 Regelmäßige Updates mit neuen Rezepten, um deine kulinarischen Abenteuer frisch und aufregend zu halten.
 
 Egal, ob du ein schnelles Alltagsrezept, ein beeindruckendes Gericht für Gäste oder etwas für spezielle Ernährungsbedürfnisse suchst, Melon's Recipes hat alles, was du brauchst.
 
