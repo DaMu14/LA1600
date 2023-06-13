@@ -14,4 +14,4 @@ Egal, ob du nach einem schnellen Abendessen für die Familie suchst oder etwas B
 
 Worauf wartest du noch? Klicke [hier](https://damu14.github.io/LA1600/), um dich von unseren köstlichen Rezepten auf Melon's Recipes inspirieren zu lassen!
 
-![Köstliche Rezepte](https://cdn-icons-png.flaticon.com/512/3565/3565418.png)
+![Köstliche Rezepte](https://damu14.github.io/LA1600/images/melone.png)
