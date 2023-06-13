@@ -70,12 +70,13 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1 | 23.5.23 | Erisman, Müller | Erstellen eines Dark Mode Switch | 45 |
+| 7. | 23.5.23 | Erisman, Müller | Erstellen eines Dark Mode Switch | 45 |
 | 2 | 23.5.23 | Erisman | Erstellen einer Suchleiste | 4x45 |
 | 3 | 30.5.23 | Erisman, Bächli | Darkmode Funktion implementieren | 4x45 |
 | 3 | 6.6.23 | Manser, Müller | Erstellen eines Filtersystems | 3x45 |
 | 4 | 6.6.23 | Erisman, Manser | Frtigstellung des Darkmodes und des Filters | 3x45 |
-|14.N| 13.6.23| Manser|Drop Down Menu| 
+|14.N| 13.6.23| Manser|Drop Down Menu| |
+|
  
 
 
@@ -97,7 +98,8 @@ Total:
 | 1.B     |9.5.23| Bächli, Müller |  45         |       45        |            
 | 2.A     |9.5.23| Erisman |       2x45    |     45          |              
 | 2.A     |16.5.23| Erisman |     2x45      |     45          |           
-| 3.A     |23.5.23| Erisman |    45       |    300           |                
+| 3.A     |23.5.23| Erisman |    45       |    300           | 
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
