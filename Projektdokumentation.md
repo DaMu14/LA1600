@@ -124,7 +124,7 @@ Total:
 | 12.1 | 13.6.23 |
 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Wir haben viele Testfälle geschafft sodass die Website um Grunde funktioniert. Wir haben einfach nicht alle Testfälle geschafft.
 
 ## 6 Auswerten
 
