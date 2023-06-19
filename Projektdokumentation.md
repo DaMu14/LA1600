@@ -52,7 +52,7 @@ Unsere Kochrezept-Website bietet Nutzern eine umfassende Sammlung von Rezepten f
 | 4.1  | Rezeptseite | Klicken auf "Favoriten hinzufügen" | Das Rezept wird zu den Favoriten des Benutzers hinzugefügt. |
 | 4.2  | Website-Startseite | Klicken auf "Favoriten" | Eine Liste aller vom Benutzer gespeicherten Rezepte wird angezeigt. |
 | 5.1  | Rezeptseite | Klicken auf "Bewertung abgeben" | Eine Bewertung und ein Kommentar können eingegeben und gespeichert werden. |
-| 6.1  | Anderes Gerät  | 
+| 6.1  | Anderes Gerät  | Website auf Mobilem Gerät öffnen| Website kann auf einem Mobilen Gerät genutzt werden|
 | 7.1  | Website starten| auf Darkmode klicken | Die Website wird in den Darkmode gestellt. |
 | 8.1  | Website starten | klicken auf französisch klicken | die Website wird auf französisch angezeigt. |
 | 10.1  | Website starten  | Rezept auswählen | Mengenangaben für das Rezept werden angezeigt. |
