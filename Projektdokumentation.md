@@ -10,7 +10,7 @@ Melon: Müller, Erismann, Bächli, Manser
 | 23.5.2023| 0.0.4  | Darkmode Setting angefangen zu implementieren  |
 | 30.5.2023| 0.0.5  | Filtersystem Angefangen, Darkmode Fertig gemacht  |
 | 6.6.2023| 0.0.6  | Filtersystem Fertig gemacht  |
-
+| 13.6.23| 1.0.0  | Projekt fertig gemacht|
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
