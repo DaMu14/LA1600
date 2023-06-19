@@ -93,7 +93,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+ 
 
 ## 4 Realisieren
 
@@ -106,7 +106,7 @@ Total:
 | 3.A     |23.5.23| Erisman |    45       |    300           | 
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+ 
 
 ## 5 Kontrollieren
 
