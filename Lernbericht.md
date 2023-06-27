@@ -20,6 +20,12 @@ Wir haben in diesem Projekt gelernt, wie man mit IFrame einen Darkmode erstellt.
 
 ![Gif zu Darkmode](https://github.com/DaMu14/LA1600/blob/main/images/Gif.gif?raw=true)
 
+```"filter: invert(1)"```: Dieser Teil des Codes bewirkt eine Invertierung der Farben auf der Webseite. Das heißt, dass helle Farben dunkel und dunkle Farben hell werden. Durch die Verwendung des Wertes ```"1"``` wird die volle Invertierung erreicht.
+
+```"hue-rotate(180deg)"```: Dieser Teil des Codes dreht den Farbton der Webseite um ```180 Grad```. Dadurch werden die Farben der Webseite in ihrer Farbpalette umgekehrt. Der Wert ```"180deg"``` gibt die Gradzahl an, um die der Farbton gedreht wird. In diesem Fall erfolgt eine vollständige Umkehrung des Farbtons.
+
+Durch die Kombination dieser beiden Filter wird der Dark Mode auf der Webseite erreicht. Die Farben werden invertiert, um ein dunkles Erscheinungsbild zu erzeugen, und der Farbton wird umgedreht, um die Farbpalette anzupassen. Dies führt zu einem angenehmen Dark-Mode-Erlebnis für die Benutzer.
+
 ## Verifikation
 
 Video: Man sieht✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
