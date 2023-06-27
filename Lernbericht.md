@@ -32,9 +32,10 @@ Bild:
 
 # Reflexion zum Arbeitsprozess
 
-*👍 Wir hatten sehr schnell und für ein Thema einigen können.
-*👍 Wir hatten sehr viele Ideen für unsere Webseite.
-*👍 Wir konnten viele von unseren Vorstellungen umsetzen. 
+Was lief gut?
+*Wir hatten sehr schnell und für ein Thema einigen können.
+*Wir hatten sehr viele Ideen für unsere Webseite.
+*Wir konnten viele von unseren Vorstellungen umsetzen. 
 
 *👎 Die Zusammenarbeit war schwierig, da immer wieder jemand gefehlt hatt.
 *👎 Wir waren nicht immer so konzentriert bei der Arbeit, weshalb wir einiges nacharbeiten mussten.
