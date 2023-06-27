@@ -11,11 +11,6 @@ Wir haben in diesem Projekt gelernt, wie man mit IFrame einen Darkmode erstellt.
 
 ## Beschreibung
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
-
 ![Gif zu Darkmode](https://github.com/DaMu14/LA1600/blob/main/images/Gif.gif?raw=true)
 
 Der Codefetzen ![CodeFetzen](https://github.com/DaMu14/LA1600/blob/main/images/Screenshot%202023-06-27%20095928.png?raw=true) wurde für den Dark Mode verwendet. Er invertiert die Farben und dreht den Farbton um 180 Grad, um ein dunkles Erscheinungsbild zu erzeugen.
@@ -37,14 +32,14 @@ Bild:
 
 # Reflexion zum Arbeitsprozess
 
-👍 Wir hatten sehr schnell und für ein Thema einigen können.
-👍 Wir hatten sehr viele Ideen für unsere Webseite.
-👍 Wir konnten viele von unseren Vorstellungen umsetzen. 
+*👍 Wir hatten sehr schnell und für ein Thema einigen können.
+*👍 Wir hatten sehr viele Ideen für unsere Webseite.
+*👍 Wir konnten viele von unseren Vorstellungen umsetzen. 
 
-👎 Die Zusammenarbeit war schwierig, da immer wieder jemand gefehlt hatt.
-👎 Wir waren nicht immer so konzentriert bei der Arbeit, weshalb wir einiges nacharbeiten mussten.
-👎 Mit einigen Personen war die Gruppenarbeit sehr schwierig, weil sie nicht viel gemacht haben.
-👎 Wir hatten unsere Projektdokumentation nicht sehr gut geführt, weshalb wir nicht immer wussten auf welchem Stand wir sind.
+*👎 Die Zusammenarbeit war schwierig, da immer wieder jemand gefehlt hatt.
+*👎 Wir waren nicht immer so konzentriert bei der Arbeit, weshalb wir einiges nacharbeiten mussten.
+*👎 Mit einigen Personen war die Gruppenarbeit sehr schwierig, weil sie nicht viel gemacht haben.
+*👎 Wir hatten unsere Projektdokumentation nicht sehr gut geführt, weshalb wir nicht immer wussten auf welchem Stand wir sind.
 
 **VBV**: 
 Wir könnten das nächste mal unsere Projektdokumentation besser machen, damit wir auch wissen was wir schon gemacht haben und was wir noch machen müssen.
