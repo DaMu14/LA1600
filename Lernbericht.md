@@ -34,7 +34,9 @@ Bild:
 
 Was lief gut?
 *Wir hatten sehr schnell und für ein Thema einigen können.
+
 *Wir hatten sehr viele Ideen für unsere Webseite.
+
 *Wir konnten viele von unseren Vorstellungen umsetzen. 
 
 *👎 Die Zusammenarbeit war schwierig, da immer wieder jemand gefehlt hatt.
