@@ -30,7 +30,9 @@ Durch die Kombination dieser beiden Filter wird der Dark Mode auf der Webseite e
 
 ## Verifikation
 
-Video: Man sieht✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Video: Man sieht hier den Wechsel zwischen dem Whitemode und Darkmode.
+Code Fetzen: Es wird erklärt wie der Darkmode switch funktioniert.
+✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
 # Reflexion zum Arbeitsprozess
 
