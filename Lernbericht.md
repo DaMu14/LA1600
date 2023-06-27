@@ -33,16 +33,23 @@ Bild:
 # Reflexion zum Arbeitsprozess
 
 Was lief gut?
-*Wir hatten sehr schnell und für ein Thema einigen können.
 
-*Wir hatten sehr viele Ideen für unsere Webseite.
+👍Wir hatten sehr schnell und für ein Thema einigen können.
 
-*Wir konnten viele von unseren Vorstellungen umsetzen. 
+👍Wir hatten sehr viele Ideen für unsere Webseite.
 
-*👎 Die Zusammenarbeit war schwierig, da immer wieder jemand gefehlt hatt.
-*👎 Wir waren nicht immer so konzentriert bei der Arbeit, weshalb wir einiges nacharbeiten mussten.
-*👎 Mit einigen Personen war die Gruppenarbeit sehr schwierig, weil sie nicht viel gemacht haben.
-*👎 Wir hatten unsere Projektdokumentation nicht sehr gut geführt, weshalb wir nicht immer wussten auf welchem Stand wir sind.
+👍Wir konnten viele von unseren Vorstellungen umsetzen. 
+
+Was lief nicht so gut?
+
+👎 Die Zusammenarbeit war schwierig, da immer wieder jemand gefehlt hatte.
+
+👎 Wir waren nicht immer so konzentriert bei der Arbeit, weshalb wir einiges nacharbeiten mussten.
+
+👎 Mit einigen Personen war die Gruppenarbeit sehr schwierig, weil sie nicht viel gemacht haben.
+
+👎 Wir hatten unsere Projektdokumentation nicht sehr gut geführt, weshalb wir nicht immer wussten auf welchem Stand wir sind.
+
 
 **VBV**: 
 Wir könnten das nächste mal unsere Projektdokumentation besser machen, damit wir auch wissen was wir schon gemacht haben und was wir noch machen müssen.
