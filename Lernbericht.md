@@ -22,7 +22,7 @@ Wir haben in diesem Projekt gelernt, wie man mit IFrame einen Darkmode erstellt.
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Video: Man sieht✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
 # Reflexion zum Arbeitsprozess
 
