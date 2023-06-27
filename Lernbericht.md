@@ -1,4 +1,4 @@
-ß# Lern-Bericht
+# Lern-Bericht
 Melon: Müller, Erismann, Manser, Bächli
 
 ## Einleitung
