@@ -1,4 +1,4 @@
-# Lern-Bericht
+ß# Lern-Bericht
 Melon: Müller, Erismann, Manser, Bächli
 
 ## Einleitung
@@ -22,7 +22,7 @@ Wir haben in diesem Projekt gelernt, wie man mit IFrame einen Darkmode erstellt.
 
 Der Codefetzen ```"filter: invert(1) hue-rotate(180deg);"``` wurde für den Dark Mode verwendet. Er invertiert die Farben und dreht den Farbton um 180 Grad, um ein dunkles Erscheinungsbild zu erzeugen.
 
-```"filter: invert(1)"```: Dieser Teil des Codes bewirkt eine Invertierung der Farben auf der Webseite. Das heißt, dass helle Farben dunkel und dunkle Farben hell werden. Durch die Verwendung des Wertes ```"1"``` wird die volle Invertierung erreicht.
+```"filter: invert(1)"```: Dieser Teil des Codes bewirkt eine Invertierung der Farben auf der Webseite. Das heisst, dass helle Farben dunkel und dunkle Farben hell werden. Durch die Verwendung des Wertes ```"1"``` wird die volle Invertierung erreicht.
 
 ```"hue-rotate(180deg)"```: Dieser Teil des Codes dreht den Farbton der Webseite um ```180 Grad```. Dadurch werden die Farben der Webseite in ihrer Farbpalette umgekehrt. Der Wert ```"180deg"``` gibt die Gradzahl an, um die der Farbton gedreht wird. In diesem Fall erfolgt eine vollständige Umkehrung des Farbtons.
 
