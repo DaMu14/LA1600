@@ -11,8 +11,6 @@ Wir haben in diesem Projekt gelernt, wie man mit IFrame einen Darkmode erstellt.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
@@ -32,12 +30,19 @@ Durch die Kombination dieser beiden Filter wird der Dark Mode auf der Webseite e
 
 Video: Man sieht hier den Wechsel zwischen dem Whitemode und Darkmode.
 Code Fetzen: Es wird erklärt wie der Darkmode switch funktioniert.
+Bild: 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
 # Reflexion zum Arbeitsprozess
 
-👍 Wir hatten Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Wir hatten sehr schnell und für ein Thema einigen können.
+👍 Wir hatten sehr viele Ideen für unsere Webseite.
+👍 Wir konnten viele von unseren Vorstellungen umsetzen. 
 
-👎 und etwas, was nicht gut lief.
+👎 Die Zusammenarbeit war schwierig, da immer wieder jemand gefehlt hatt.
+👎 Wir waren nicht immer so konzentriert bei der Arbeit, weshalb wir einiges nacharbeiten mussten.
+👎 Mit einigen Personen war die Gruppenarbeit sehr schwierig, weil sie nicht viel gemacht haben.
+👎 Wir hatten unsere Projektdokumentation nicht sehr gut geführt, weshalb wir nicht immer wussten auf welchem Stand wir sind.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: 
+Wir könnten das nächste mal unsere Projektdokumentation besser machen, damit wir auch wissen was wir schon gemacht haben und was wir noch machen müssen.
