@@ -134,5 +134,4 @@ Wir haben viele Testfälle geschafft sodass die Website um Grunde funktioniert. 
 ## 6 Auswerten
 
 Hier geht es zum [Lern-Bericht](https://github.com/DaMu14/LA1600/blob/main/Lernbericht.md)
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
  
