@@ -126,7 +126,7 @@ Total:
 | 8.1 | 13.6.23 |nicht möglich| Müller|
 | 10.1 | 13.6.23 | wird angezeigt | Müller|
 | 11.1 | 13.6.23 | Zeit wird angezeigt| Müller|
-| 12.1 | 13.6.23 |
+ 
 
 
 Wir haben viele Testfälle geschafft sodass die Website um Grunde funktioniert. Wir haben einfach nicht alle Testfälle geschafft.
