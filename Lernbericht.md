@@ -18,6 +18,8 @@ Wir haben in diesem Projekt gelernt, wie man mit IFrame einen Darkmode erstellt.
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
+![Gif zu Darkmode](https://github.com/DaMu14/LA1600/blob/main/images/Gif.gif?raw=true)
+
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
